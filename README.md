@@ -1,6 +1,6 @@
 # Anubhav Raj's Portfolio Website
 
-![Portfolio Preview](screenshot.png)
+![Portfolio Preview](portfolio.jpeg)
 
 ## Introduction
 
